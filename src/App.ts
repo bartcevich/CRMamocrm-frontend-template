@@ -1,5 +1,8 @@
 import moment from "moment";
+//import React from 'react';
 
+//function App() {
+//export const App = () => {
 export default class App {
     protected amoWidget: unknown;
     protected mode: string;
